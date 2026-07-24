@@ -1,0 +1,6 @@
+{
+  "name": "A23 Pro",
+  "description": "Pro Market OTC & Jodi Predictor App with 7-Day Accuracy Reports and Smart Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
